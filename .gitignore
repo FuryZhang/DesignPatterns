@@ -73,3 +73,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# VS relations
+*.pdb
+*.tlog
+*.ilk
+*.suo
+*.idb
+*.sdf
+*.log
+*.opensdf
